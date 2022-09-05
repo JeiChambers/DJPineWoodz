@@ -1,0 +1,3 @@
+# ignore file housing TOKEN
+*.env 
+/node_modules
