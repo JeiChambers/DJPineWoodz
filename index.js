@@ -14,7 +14,7 @@ const TOKEN = process.env.TOKEN
 const LOAD_SLASH = process.argv[2] == "load"
 
 //Discord Client ID for Bot
-const CLIENT_ID = "1008607839301935115"
+const CLIENT_ID = process.env.CLIENT_ID
 // Discord Server in which bot will be executable 
 const GUILD_ID = "463947429159370762"
 
